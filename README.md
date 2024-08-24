@@ -8,5 +8,9 @@
 - 👀 Interested in Problem Solving and Web Development
 - 🌱 Currently learning Data Structures and Algorithms (DSA)
 - 💞️ Looking to collaborate on AI projects
-- 📫 How to reach me: [Your contact details]
+- 📫 How to reach me:
+  <a href='www.linkedin.com/in/thamizh-arasan-j-s-131a9524b'>
+  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
 - 😄 Pronouns: Web Developer
+
+
