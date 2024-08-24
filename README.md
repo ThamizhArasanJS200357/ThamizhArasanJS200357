@@ -43,3 +43,8 @@
 ### Most used Language
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamizhArasanJS200357&layout=compact)
+
+
+### Contribution Graph
+
+[![Thamizharasan JS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThamizhArasanJS200357&theme=dracula)](https://github.com/ThamizhArasanJS200357/github-readme-activity-graph)
