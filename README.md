@@ -2,7 +2,7 @@
 
 🌐 Web Developer |🎓 Final Year CSE Student @ Adhi College of Engineering and Technology
 
-<img align='right' width='370' heigth='290' src='https://aviintech.com/wp-content/uploads/2023/10/training.gif'>
+<img align='right' width='270' heigth='190' src='https://aviintech.com/wp-content/uploads/2023/10/training.gif'>
 
 - 📚 Pursuing a degree in Computer Science Engineering
 - 👀 Interested in Problem Solving and Web Development
