@@ -18,7 +18,7 @@
 
 <p align="center">
   <img width="50" height="60" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  <img width="50" height="60" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/50/html-5.png" alt="html-5"/>
   <img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/>
