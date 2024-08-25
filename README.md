@@ -21,7 +21,7 @@
   <img width="60" height="60" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img width="60" height="60" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img width="60" height="60" src="https://img.icons8.com/fluency/50/html-5.png" alt="html-5"/>
-  <img width="50" height="60" src="https://img.icons8.com/color/50/css3.png" alt="css3"/>
+  <img width="60" height="60" src="https://img.icons8.com/color/50/css3.png" alt="css3"/>
   <img width="50" height="60" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" alt="sass"/>
   <img width="50" height="60" src="https://img.icons8.com/color/50/tailwind_css.png" alt="tailwind_css"/>
   <img width="50" height="60" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react"/>
