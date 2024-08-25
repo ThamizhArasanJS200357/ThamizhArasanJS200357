@@ -24,7 +24,7 @@
   <img width="50" height="60" src="https://img.icons8.com/color/50/css3.png" alt="css3"/>
   <img width="50" height="60" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" alt="sass"/>
   <img width="50" height="60" src="https://img.icons8.com/color/50/tailwind_css.png" alt="tailwind_css"/>
-  <img width="50" height="50" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react"/>
+  <img width="50" height="60" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react"/>
   <img width="50" height="50" src="https://img.icons8.com/color/50/javascript--v1.png" alt="javascript--v1"/>
   <img width="50" height="50" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="mongodb"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/50/mysql-logo.png" alt="mysql-logo"/>
