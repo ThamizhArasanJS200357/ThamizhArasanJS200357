@@ -40,7 +40,12 @@
 
 ### Platforms that help me enhance my coding skills
 
-
+<p align="center">
+  <img width="70" height="70" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png"/> 
+  <img width="70" height="70" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp"/> 
+  <img width="70" height="70" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg"/> 
+  <img width="70" height="70" src="https://dmmy6mpbxgeck.cloudfront.net/68b82ab2-3e36-4428-aa21-6e5e2cd407c5/widget/8f96fa5f-3a91-4de7-8881-c62376b37acf"/>
+</p>
 
 ### Most used Language
 
