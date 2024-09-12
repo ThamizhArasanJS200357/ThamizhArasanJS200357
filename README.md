@@ -57,7 +57,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamizhArasanJS200357&layout=compact&theme=dark)
 
-### 🔝 Top Contributed Repo
+### 🔝 Star of My GitHub Show
 ![](https://github-contributor-stats.vercel.app/api?username=ThamizhArasanJS200357&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
