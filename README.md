@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thamizh+Arasan+JS!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&size=35&color=FF6666&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thamizh+Arasan+JS!" />
 </h1>
+
 
 🌐 Web Developer |🎓 Final Year CSE Student @ Adhi College of Engineering and Technology
 
