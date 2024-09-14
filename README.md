@@ -7,7 +7,7 @@
 
 🌐 Web Developer |🎓 Final Year CSE Student @ Adhi College of Engineering and Technology
 
-<img align='right' width='270' heigth='190' src='https://aviintech.com/wp-content/uploads/2023/10/training.gif'>
+<iframe src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">via GIPHY</a></p>
 
 - 📚 Pursuing a degree in Computer Science Engineering
 - 👀 Interested in Problem Solving and Web Development
