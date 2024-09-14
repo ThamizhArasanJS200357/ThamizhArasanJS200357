@@ -7,8 +7,7 @@
 
 🌐 Web Developer |🎓 Final Year CSE Student @ Adhi College of Engineering and Technology
 
-<iframe src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">via GIPHY</a></p>
-
+<img align='right' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazloYmgycjAxdWlzMXA3YjFyNXMzMnIwc2oxYTl2dGR0NWVrMTB4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif'>
 - 📚 Pursuing a degree in Computer Science Engineering
 - 👀 Interested in Problem Solving and Web Development
 - 🌱 Currently learning Data Structures and Algorithms (DSA)
