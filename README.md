@@ -7,7 +7,7 @@
 
 🌐 Web Developer |🎓 Final Year CSE Student @ Adhi College of Engineering and Technology
 
-<img align='right' heigth='300' width='300' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYxYTEwN2N3dmM2ZDhzdHY3bDB2YmRkMDJqcmZ6ZGR0anJyZzA1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif'>
+<img align='right' heigth='350' width='400' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYxYTEwN2N3dmM2ZDhzdHY3bDB2YmRkMDJqcmZ6ZGR0anJyZzA1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif'>
 
 
 
