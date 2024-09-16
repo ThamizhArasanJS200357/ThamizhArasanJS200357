@@ -43,6 +43,7 @@
   <img width="60" height="60" src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img width="60" height="60" src="https://img.icons8.com/color/50/pycharm--v1.png" alt="pycharm--v1"/>
   <img width="60" height="60" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia"/>
+  <img src="https://img.icons8.com/fluency/48/chatgpt.png" alt="ChatGPT" width="50px"/>
 </p>
 
 ### Platforms that help me enhance my coding skills
